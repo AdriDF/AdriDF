@@ -2,7 +2,7 @@
 #### Data Analytics & Online Marketing
 ![Data Analytics & Online Marketing](gitHub_banner.png)
 
-After several years working in Performance Marketing and discovering my passion for data I have decided to make a career change and focus on Data Analytics.
+After several years working in Performance Marketing and discovering my passion for data I have decided to expand my career beyond Marketing and focus a bit more on Data Analytics.
 
 Because of this, I have completed a Bootcamp at NeueFische in Data Analytics. In May 2023 I have presented together with 4 classmates our Capstone Project called ["POInterest - London Airbnb Explorer"](https://github.com/AdriDF/My_Projects), a dashboard tool that uses data combined from Airbnb, the Overpass API & Google Maps to filter for and find an optimal selection of Airbnbs for travellers. 
 
