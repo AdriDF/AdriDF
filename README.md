@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Adrián
+### Hi there ✌🏼, my name is Adrián
 #### Data Analytics & Online Marketing
 ![Data Analytics & Online Marketing](gitHub_banner.png)
 
