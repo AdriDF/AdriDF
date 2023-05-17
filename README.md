@@ -13,4 +13,5 @@ Because of this, I have completed a Bootcamp at NeueFische in Data Analytics. In
 - 🌱  Always learning and improving my coding skills 
 
 Learn more about me:
+
 [<img src='https://github.com/AdriDF/AdriDF/blob/main/github_logo.png' alt='github' height='80'>](https://github.com/AdriDF) [<img src='https://github.com/AdriDF/AdriDF/blob/main/linkedin_logo.png' alt='linkedin' height='80'>](https://www.linkedin.com/in/adrian-dominguez-b5605663/)
