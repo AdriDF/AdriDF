@@ -1,6 +1,7 @@
-### Hi there ✌🏼, my name is Adrián
-#### Data Analytics & Online Marketing
-![Data Analytics & Online Marketing](gitHub_banner.png)
+<h1 style="font-size: 30;"><p align="center" size="16"> Hi there ✌🏼, my name is Adrián </p> </h1>
+<p align="center">
+  <img src="https://github.com/AdriDF/AdriDF/blob/main/gitHub_banner.png">
+</p> 
 
 After several years working in Performance Marketing and discovering my passion for data I have decided to expand my career beyond Marketing and focus a bit more on Data Analytics.
 
@@ -11,4 +12,5 @@ Because of this, I have completed a Bootcamp at NeueFische in Data Analytics. In
 - 🔭 Currently working on finding the perfect Data job for me :) 
 - 🌱  Always learning and improving my coding skills 
 
-[<img src='https://github.com/AdriDF/AdriDF/blob/main/github_logo.png' alt='github' height='60'>](https://github.com/AdriDF) [<img src='https://github.com/AdriDF/AdriDF/blob/main/linkedin_logo.png' alt='linkedin' height='60'>](https://www.linkedin.com/in/adrian-dominguez-b5605663/)  
+Learn more about me:
+[<img src='https://github.com/AdriDF/AdriDF/blob/main/github_logo.png' alt='github' height='80'>](https://github.com/AdriDF) [<img src='https://github.com/AdriDF/AdriDF/blob/main/linkedin_logo.png' alt='linkedin' height='80'>](https://www.linkedin.com/in/adrian-dominguez-b5605663/)
