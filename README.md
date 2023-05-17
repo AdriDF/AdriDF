@@ -1,4 +1,4 @@
-<h1 style="font-size: 30;"><p align="center" size="16"> Hi there ✌🏼, my name is Adrián </p> </h1>
+<h1 style="font-size: 30;"><p align="center" size="16"> Hey there ✌🏼, welcome to my GitHub profile! </p> </h1>
 <p align="center">
   <img src="https://github.com/AdriDF/AdriDF/blob/main/gitHub_banner.png">
 </p> 
