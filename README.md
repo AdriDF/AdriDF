@@ -1,6 +1,6 @@
 <h1 style="font-size: 30;"><p align="center" size="16"> Hey there ✌🏼, welcome to my GitHub profile! </p> </h1>
 <p align="center">
-  <img src="https://github.com/AdriDF/AdriDF/blob/main/gitHub_banner.png">
+  <img src="https://github.com/AdriDF/AdriDF/blob/main/BannerGitHubNew.jpg">
 </p> 
 
 After several years working in Performance Marketing and discovering my passion for data I have decided to expand my career beyond Marketing and focus a bit more on Data Analytics.
